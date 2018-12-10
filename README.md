@@ -20,5 +20,10 @@
 ![ Git Collaboration](/task3/image3.1.png)
 
 ## Intro to HTML and CSS
-
+- It was new for me to work with tables.
+- The positioning of the elements surprised me.
+- I will use advanced selectors, pseudo-classes, and combine them.
+![ Intro to HTML and CSS](/task4/image4.1.png)
 ![ Intro to HTML and CSS](/task4/image4.png)
+
+
