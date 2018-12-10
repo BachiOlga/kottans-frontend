@@ -18,3 +18,7 @@
 -  I will use all these commands to increase my efficiency.
 ![ Git Collaboration](/task3/image3.png)
 ![ Git Collaboration](/task3/image3.1.png)
+
+## Intro to HTML and CSS
+
+![ Intro to HTML and CSS](/task4/image4.png)
