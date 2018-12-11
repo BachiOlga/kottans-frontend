@@ -26,4 +26,10 @@
 ![ Intro to HTML and CSS](/task4/image4.1.png)
 ![ Intro to HTML and CSS](/task4/image4.png)
 
+## Responsive Web Design
+- For me, the flex-flow: property was new.
+- I was surprised by the possibility of flex-box.
+- I will use flex-box to solve problems in work.
+![ Intro to HTML and CSS](/task5/image5.1.png)
+![ Intro to HTML and CSS](/task5/image5.png)
 
