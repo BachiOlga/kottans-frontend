@@ -34,9 +34,9 @@
 ![ Responsive Web Design](/task5/image5.png)
 
  ## JS Basics
-- 
-- 
-- 
+- It was a very informative course. Much was new to me.
+- Hoisting surprised me
+- I will use everything in practice
 ![ Responsive Web Design](/task6/image6.1.png)
 ![ Responsive Web Design](/task6/image6.png)
 
