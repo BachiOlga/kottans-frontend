@@ -38,5 +38,12 @@
 - Hoisting surprised me
 - I will use everything in practice
 ![ JS Basics](/task6/image6.1.png)
-![JS Basics](/task6/image6.png)
+![ JS Basics](/task6/image6.png)
 
+## DOM
+- Document Object Model for me was all new and interesting.
+- I was surprised to create and delete elements, search for elements, delete nodes in the DOM
+- I will use in practice: getElementById, ES6, querySelector, querySelectorAll.
+![ DOM](/task7/image7.1.png)
+![ DOM](/task7/image7.png)
+ [Demo](https://bachiolga.github.io/Menu/)
