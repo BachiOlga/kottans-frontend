@@ -44,6 +44,7 @@
 - Document Object Model for me was all new and interesting.
 - I was surprised to create and delete elements, search for elements, delete nodes in the DOM
 - I will use in practice: getElementById, ES6, querySelector, querySelectorAll.
+- DOM task demo - [Demo](https://bachiolga.github.io/Menu/)
 ![ DOM](/task7/image7.1.png)
 ![ DOM](/task7/image7.png)
- [Demo](https://bachiolga.github.io/Menu/)
+
